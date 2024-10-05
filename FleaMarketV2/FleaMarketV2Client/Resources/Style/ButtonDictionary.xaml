@@ -1,0 +1,123 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+
+
+    <Style TargetType="Button" x:Key="BaseButton">
+
+        <Setter Property="Background">
+            <Setter.Value>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                    <GradientStop Color="{StaticResource ButtonBackGroundColorUp}" Offset="0.0"/>
+                    <GradientStop Color="{StaticResource ButtonBackGroundColorDown}" Offset="0.6"/>
+                    <GradientStop Color="{StaticResource ButtonBackGroundColorUp}" Offset="1.0"/>
+                </LinearGradientBrush>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="BorderBrush" Value="{StaticResource BackGroundBrush1}"/>
+        <Setter Property="BorderThickness" Value="0.75"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontSize" Value="11"/>
+        <Setter Property="Effect">
+            <Setter.Value>
+                <DropShadowEffect Color="Black" Direction="270" ShadowDepth="3" Opacity="0.5"/>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border 
+                    Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}" 
+                    BorderThickness="{TemplateBinding BorderThickness}" 
+                    CornerRadius="3"
+                    Padding="{TemplateBinding Padding}"
+                    >
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                    
+                </ControlTemplate>
+
+            </Setter.Value>
+        </Setter>
+        
+    </Style>
+
+    <Style TargetType="Button" x:Key="PurchaseButton">
+
+        <Setter Property="Background" Value="Black"/>
+        <Setter Property="BorderBrush" Value="{StaticResource BackGroundBrush5}"/>
+        <Setter Property="BorderThickness" Value="0.75"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+        <Setter Property="VerticalContentAlignment" Value="Stretch"/>
+        <Setter Property="Effect">
+            <Setter.Value>
+                <DropShadowEffect Color="Black" Direction="270" ShadowDepth="3" Opacity="0.5"/>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border 
+                    Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}" 
+                    BorderThickness="{TemplateBinding BorderThickness}" 
+                    CornerRadius="3"
+                   
+                    >
+                        <Image Source="/Resources/Images/cart2.png" 
+                           
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center" 
+                           Stretch="Uniform">
+
+                        </Image>
+                            
+                    
+                    </Border>
+                </ControlTemplate>
+
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <Style TargetType="Button" x:Key="DeleteButton">
+
+        <Setter Property="Background" Value="Black"/>
+        <Setter Property="BorderBrush" Value="{StaticResource BackGroundBrush5}"/>
+        <Setter Property="BorderThickness" Value="0.75"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontSize" Value="11"/>
+        <Setter Property="Effect">
+            <Setter.Value>
+                <DropShadowEffect Color="Black" Direction="270" ShadowDepth="3" Opacity="0.5"/>
+            </Setter.Value>
+        </Setter>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button">
+                    <Border 
+                    Background="{TemplateBinding Background}"
+                    BorderBrush="{TemplateBinding BorderBrush}" 
+                    BorderThickness="{TemplateBinding BorderThickness}" 
+                    CornerRadius="3"
+                    Padding="{TemplateBinding Padding}"
+                    >
+                        <Image Source="/Resources/Images/trashcan2.jpg" VerticalAlignment="Center" HorizontalAlignment="Center"></Image>
+                    </Border>
+                </ControlTemplate>
+
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+</ResourceDictionary>

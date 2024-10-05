@@ -1,0 +1,20 @@
+﻿FleaMarketV2Client
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\
+FleaMarketV2Client
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\App.xaml
+23-195466132
+
+40600387129
+205-596724482
+Resources\Colors\BrushDictionary.xaml;Resources\Colors\Colors.xaml;Resources\Style\ButtonDictionary.xaml;Resources\Style\DataGridDictionary.xaml;Resources\Style\ListViewDictionary.xaml;Resources\Style\SeparateLineDictionary.xaml;Resources\Style\TextBlock.xaml;Resources\Style\TextBox.xaml;Resources\Style\WindowStyleDictionary.xaml;Views\CustomMessageBox.xaml;Views\DetailView.xaml;Views\ItemListView.xaml;Views\LogInView.xaml;Views\MainMarket.xaml;Views\MyItemListView.xaml;Views\MyOfferView.xaml;Views\MySearchView.xaml;Views\MyStatusBarView.xaml;Views\RegistView.xaml;Views\SearchView.xaml;Views\SignInView.xaml;Views\StatusBarView.xaml;Views\WindowStyleControl.xaml;
+
+True
+

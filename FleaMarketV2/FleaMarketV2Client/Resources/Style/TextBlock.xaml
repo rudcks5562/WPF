@@ -1,0 +1,102 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- 공통사항 명시 -->
+    <Style TargetType="TextBlock" x:Key="BaseTextBlockStyle">
+        <Setter Property="FontFamily" Value="Segoe UI"/>
+        <Setter Property="FontSize" Value="12"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="Margin" Value="5"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+
+    <!-- 카테고리 분류, 숫자= 목업 ppt쪽수에만 위치,
+    알파벳:공통사항 분류<A:여러 뷰 공통 ,B:IL 데이터 그리드 분류,C:Search 리스트뷰 분류>   -->
+
+    <!-- 1.메인 로고 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="MainLogoTextStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="24"/>
+        <Setter Property="Foreground" Value="{StaticResource ForeBrush1}"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+    
+    <!-- A: 버튼 내부 텍스트 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="ButtonTextStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="10.5"/>
+        <Setter Property="Foreground" Value="{StaticResource ForeBrush2}"/>
+    </Style>
+    <!-- A: 사용자 입력 텍스트 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="UserInputTextStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="11"/>
+        <Setter Property="Foreground" Value="{StaticResource DataBrush1}"/>
+    </Style>
+    <!-- (1,2). notify 텍스트 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="NotifyTextStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="9"/>
+        <Setter Property="Foreground" Value="{StaticResource ForeBrush3}"/>
+    </Style>
+    <!-- 3. 툴바 내부 텍스트 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="ToolbarTextStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="8"/>
+        <Setter Property="Foreground" Value="{StaticResource ForeBrush1}"/>
+    </Style>
+    <!-- 3. 아이템리스트 데이터 그리드 헤더 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="ItemListDataGridStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="8"/>
+        <Setter Property="Foreground" Value="{StaticResource ForeBrush4}"/>
+    </Style>
+    <!-- 3. 아이템리스트 내부 텍스트 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="ItemListInsideTextStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="8"/>
+        <Setter Property="Foreground" Value="Black"/>
+    </Style>
+    <!-- 3. 검색 리스트뷰 내부 텍스트 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="SearchListViewInsideTextStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="8"/>
+        <Setter Property="Foreground" Value="Black"/>
+    </Style>
+    <!-- 3. 검색 리스트뷰 검색창 라벨 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="SearchListViewLabelStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="8"/>
+        <Setter Property="Foreground" Value="{StaticResource ForeBrush2}"/>
+    </Style>
+    <!-- 3. 검색 리스트뷰 검색창 안내 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="SearchListViewHolderText" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="10"/>
+        <Setter Property="Foreground" Value="{StaticResource BackGroundBrush8}"/>
+    </Style>
+    <!-- A: 메시지박스 텍스트 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="MsgBoxTextStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="10"/>
+        <Setter Property="Foreground" Value="White"/>
+    </Style>
+    <!-- 디테일 뷰 칼럼 텍스트 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="DetailViewColsTextStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="8"/>
+        <Setter Property="Foreground" Value="{StaticResource ForeBrush4}"/>
+    </Style>
+    <!-- 디테일 뷰 타이틀 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="DetailViewTitleTextStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="8"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+    <!-- 레지스터 뷰 타이틀 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="RegisterViewTitleStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="8"/>
+        <Setter Property="Foreground" Value="White"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+    <!-- 레지스터 뷰 버튼 텍스트 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="RegisterViewBtnTextStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="10.5"/>
+        <Setter Property="Foreground" Value="White"/>
+    </Style>
+    <!-- 레지스터 뷰 데이터 칼럼 스타일 -->
+    <Style BasedOn="{StaticResource BaseTextBlockStyle}" x:Key="RegisterViewColsTextStyle" TargetType="TextBlock">
+        <Setter Property="FontSize" Value="8"/>
+        <Setter Property="Foreground" Value="{StaticResource ForeBrush4}"/>
+    </Style>
+
+
+</ResourceDictionary>

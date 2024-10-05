@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\CustomMessageBox.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MainMarket.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MyOfferView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MyStatusBarView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SignInView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SearchView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\StatusBarView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\RegistView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\DetailView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\ItemListView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WindowStyleControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Resources\Colors\BrushDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Colors\Colors.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Style\ButtonDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Style\DataGridDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Style\ListViewDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Style\SeparateLineDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Style\TextBlock.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Style\TextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Style\WindowStyleDictionary.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\CustomMessageBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MyItemListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\LogInView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainMarket.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MyOfferView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MySearchView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MyStatusBarView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SignInView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SearchView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\StatusBarView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\RegistView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\DetailView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\ItemListView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\WindowStyleControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

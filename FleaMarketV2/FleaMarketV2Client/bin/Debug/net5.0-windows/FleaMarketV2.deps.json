@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FleaMarketV2/1.0.0": {
+        "runtime": {
+          "FleaMarketV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FleaMarketV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

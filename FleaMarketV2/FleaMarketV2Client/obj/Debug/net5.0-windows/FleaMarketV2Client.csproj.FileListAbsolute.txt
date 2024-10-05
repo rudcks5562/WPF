@@ -1,0 +1,355 @@
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Resources\Colors\BrushDictionary.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Resources\Colors\Colors.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Resources\Style\ButtonDictionary.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Resources\Style\DataGridDictionary.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Resources\Style\ListViewDictionary.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Resources\Style\SeparateLineDictionary.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Resources\Style\TextBlock.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Resources\Style\TextBox.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Resources\Style\WindowStyleDictionary.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Views\CustomMessageBox.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Views\DetailView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Views\LogInView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Views\MainMarket.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Views\MyItemListView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Views\RegistView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Views\SearchView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Views\SignInView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Views\StatusBarView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\Views\WindowStyleControl.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\FleaMarketV2Client_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2\obj\Debug\net5.0-windows\FleaMarketV2Client_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Colors\BrushDictionary.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Colors\Colors.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\ButtonDictionary.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\DataGridDictionary.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\ListViewDictionary.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\SeparateLineDictionary.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\TextBlock.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\TextBox.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\WindowStyleDictionary.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\CustomMessageBox.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\DetailView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\ItemListView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\LogInView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MainMarket.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyOfferView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\RegistView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SearchView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SignInView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\StatusBarView.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\WindowStyleControl.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.exe
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.dll.config
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.deps.json
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.runtimeconfig.json
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\ref\FleaMarketV2Client.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.pdb
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Prism.Container.Abstractions.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Prism.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Prism.Events.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\SimpleInjector.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\CommonLib.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\CommonLib.pdb
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\CommonLib.dll.config
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\App.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\CustomMessageBox.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\DetailView.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\ItemListView.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\LogInView.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MainMarket.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyOfferView.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\RegistView.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SearchView.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SignInView.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\StatusBarView.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\WindowStyleControl.baml
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.g.resources
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\ref\FleaMarketV2Client.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.pdb
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.genruntimeconfig.cache
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.AssemblyReference.cache
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Colors\BrushDictionary.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Colors\Colors.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\ButtonDictionary.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\DataGridDictionary.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\ListViewDictionary.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\SeparateLineDictionary.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\TextBlock.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\TextBox.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\WindowStyleDictionary.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\CustomMessageBox.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\DetailView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\ItemListView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\LogInView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MainMarket.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyItemListView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyOfferView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MySearchView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\RegistView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SearchView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SignInView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\StatusBarView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\WindowStyleControl.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client_MarkupCompile.cache
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client_MarkupCompile.lref
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.exe
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.dll.config
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.deps.json
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.runtimeconfig.json
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.runtimeconfig.dev.json
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\ref\FleaMarketV2Client.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.pdb
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Prism.Container.Abstractions.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Prism.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Prism.Events.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\SimpleInjector.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\CommonLib.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\CommonLib.pdb
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\CommonLib.dll.config
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\App.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\CustomMessageBox.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\DetailView.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\ItemListView.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\LogInView.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MainMarket.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyItemListView.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyOfferView.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MySearchView.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\RegistView.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SearchView.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SignInView.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\StatusBarView.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\WindowStyleControl.baml
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.g.resources
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.AssemblyInfoInputs.cache
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.AssemblyInfo.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.CoreCompileInputs.cache
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.CopyComplete
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\ref\FleaMarketV2Client.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.pdb
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.genruntimeconfig.cache
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.exe
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.dll.config
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.deps.json
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.runtimeconfig.json
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.runtimeconfig.dev.json
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\ref\FleaMarketV2Client.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.pdb
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Prism.Container.Abstractions.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Prism.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Prism.Events.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\SimpleInjector.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Text.Json.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\CommonLib.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\CommonLib.pdb
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\CommonLib.dll.config
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.AssemblyReference.cache
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Colors\BrushDictionary.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Colors\Colors.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\ButtonDictionary.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\DataGridDictionary.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\ListViewDictionary.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\SeparateLineDictionary.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\TextBlock.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\TextBox.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\WindowStyleDictionary.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\CustomMessageBox.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\DetailView.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\ItemListView.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\LogInView.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MainMarket.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyItemListView.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyOfferView.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MySearchView.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyStatusBarView.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\RegistView.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SearchView.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SignInView.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\StatusBarView.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\WindowStyleControl.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\App.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client_MarkupCompile.cache
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client_MarkupCompile.lref
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\App.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\CustomMessageBox.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\DetailView.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\ItemListView.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\LogInView.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MainMarket.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyItemListView.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyOfferView.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MySearchView.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyStatusBarView.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\RegistView.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SearchView.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SignInView.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\StatusBarView.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\WindowStyleControl.baml
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.g.resources
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.AssemblyInfoInputs.cache
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.AssemblyInfo.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.CoreCompileInputs.cache
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.CopyComplete
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\ref\FleaMarketV2Client.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.pdb
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.genruntimeconfig.cache
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.AssemblyReference.cache
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Colors\BrushDictionary.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Colors\Colors.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\ButtonDictionary.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\DataGridDictionary.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\ListViewDictionary.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\SeparateLineDictionary.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\TextBlock.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\TextBox.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Resources\Style\WindowStyleDictionary.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\CustomMessageBox.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\DetailView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\ItemListView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\LogInView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MainMarket.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyItemListView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyOfferView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MySearchView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyStatusBarView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\RegistView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SearchView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SignInView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\StatusBarView.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\WindowStyleControl.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client_MarkupCompile.cache
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client_MarkupCompile.lref
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\CustomMessageBox.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\DetailView.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\ItemListView.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\LogInView.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MainMarket.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyItemListView.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyOfferView.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MySearchView.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\MyStatusBarView.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\RegistView.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SearchView.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\SignInView.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\StatusBarView.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\Views\WindowStyleControl.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\ref\FleaMarketV2Client.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.pdb
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.exe
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.dll.config
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.deps.json
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.runtimeconfig.json
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.runtimeconfig.dev.json
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\ref\FleaMarketV2Client.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\FleaMarketV2Client.pdb
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Prism.Container.Abstractions.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Prism.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\Prism.Events.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\SimpleInjector.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\CommonLib.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\CommonLib.pdb
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\bin\Debug\net5.0-windows\CommonLib.dll.config
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\App.baml
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.g.resources
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.AssemblyInfoInputs.cache
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.AssemblyInfo.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.CoreCompileInputs.cache
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.csproj.CopyComplete
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Client\obj\Debug\net5.0-windows\FleaMarketV2Client.genruntimeconfig.cache

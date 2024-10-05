@@ -1,0 +1,23 @@
+﻿<Window x:Class="FleaMarketV2Client.Views.LogInView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FleaMarketV2Client.Views"
+        xmlns:locals="clr-namespace:FleaMarketV2Client.Service" xmlns:viewmodel="clr-namespace:FleaMarketV2Client.ViewModel"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="6.82cm" Width="10.84cm" WindowStyle="None" ResizeMode="CanMinimize">
+    <Grid Background="{StaticResource BackGroundBrush1}" Width="10.84cm" Height="6.82cm">
+        <TextBlock  Style="{StaticResource MainLogoTextStyle}" HorizontalAlignment="Left" Margin="17,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="240"><Run Text="FLEA MARKET"/><LineBreak/><Run Text="E-COMMERCE"/></TextBlock>
+        <TextBlock Style="{StaticResource BaseTextBlockStyle}" HorizontalAlignment="Left" Margin="28,90,0,0" Text="USERNAME" VerticalAlignment="Top"/>
+        <TextBlock Style="{StaticResource BaseTextBlockStyle}"  HorizontalAlignment="Left" Margin="28,130,0,0" Text="PASSWORD" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox Style="{StaticResource BasicTextBox}" HorizontalAlignment="Left" Margin="120,83,0,0" Text="{Binding UserID}" VerticalAlignment="Top" Height="0.77cm" Width="6.16cm" />
+        <PasswordBox   x:Name="pwbox" locals:PWBox.BindablePassword="{Binding UserPW,Mode=TwoWay}"  Style="{StaticResource BasicPWBox}"  HorizontalAlignment="Left" Margin="120,123,0,0" VerticalAlignment="Top"  Height="30" Width="233" FlowDirection="LeftToRight" PasswordChanged="passwordBox_PasswordChanged"/>
+        <Button   Style="{StaticResource BaseButton}"  Content="SIGN-IN" HorizontalAlignment="Left" Margin="120,169,0,0" VerticalAlignment="Top" Height="29" Width="114" Command="{Binding SignInCommand}"/>
+        
+        <Button  Style="{StaticResource BaseButton}" Content="LOG-IN" HorizontalAlignment="Left" Margin="239,169,0,0" VerticalAlignment="Top" Height="29" Width="114" Command="{Binding LogInBtnCommand}"/>
+        <TextBlock  Style="{StaticResource NotifyTextStyle}" HorizontalAlignment="Left" Margin="177,226,0,0" Text="{Binding Notification}" TextWrapping="Wrap" VerticalAlignment="Top"/>
+
+        <Line X1="0" Y1="65" X2="410" Y2="65" Style="{StaticResource MainGridDivideLine}"/>
+    </Grid>
+</Window>

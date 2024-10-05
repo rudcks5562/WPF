@@ -1,0 +1,35 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="BackGroundBrush1" Color= "{StaticResource BackGroundColor1}" />
+    <SolidColorBrush x:Key="BackGroundBrush2" Color= "{StaticResource BackGroundColor2}" />
+    <SolidColorBrush x:Key="BackGroundBrush3" Color= "{StaticResource BackGroundColor3}" />
+    <SolidColorBrush x:Key="BackGroundBrush4" Color= "{StaticResource BackGroundColor4}" />
+    <SolidColorBrush x:Key="BackGroundBrush5" Color= "{StaticResource BackGroundColor5}" />
+    <SolidColorBrush x:Key="BackGroundBrush6" Color= "{StaticResource BackGroundColor6}" />
+    <SolidColorBrush x:Key="BackGroundBrush7" Color= "{StaticResource BackGroundColor7}" />
+    <SolidColorBrush x:Key="BackGroundBrush8" Color= "{StaticResource BackGroundColor8}" />
+    <SolidColorBrush x:Key="BackGroundBrush9" Color= "{StaticResource BackGroundColor9}" />
+    <SolidColorBrush x:Key="BackGroundBrush10" Color= "{StaticResource BackGroundColor10}" />
+
+    <SolidColorBrush x:Key="GradientBackGroundBrush1-1" Color= "{StaticResource ButtonBackGroundColorUp}" />
+    <SolidColorBrush x:Key="GradientBackGroundBrush1-2" Color= "{StaticResource ButtonBackGroundColorDown}" />
+
+    <SolidColorBrush x:Key="ForeBrush1" Color= "{StaticResource ForeColor1}" />
+    <SolidColorBrush x:Key="ForeBrush2" Color= "{StaticResource ForeColor2}" />
+    <SolidColorBrush x:Key="ForeBrush3" Color= "{StaticResource ForeColor3}" />
+    <SolidColorBrush x:Key="ForeBrush4" Color= "{StaticResource ForeColor4}" />
+    <SolidColorBrush x:Key="ForeBrush5" Color= "{StaticResource ForeColor5}" />
+
+
+    <SolidColorBrush x:Key="DataBrush1" Color= "{StaticResource DataColor1}" />
+
+
+
+    <SolidColorBrush x:Key="DivBrush1" Color= "{StaticResource DivColor1}" />
+    <SolidColorBrush x:Key="DivBrush2" Color= "{StaticResource DivColor2}" />
+    <SolidColorBrush x:Key="DivBrush3" Color= "{StaticResource DivColor3}" />
+
+
+
+</ResourceDictionary>

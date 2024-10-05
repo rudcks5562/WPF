@@ -1,0 +1,144 @@
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.exe
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.deps.json
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.runtimeconfig.json
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\ref\FleaMarketV2Server.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.pdb
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\CommonLib.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\CommonLib.pdb
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\CommonLib.dll.config
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\ref\FleaMarketV2Server.dll
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.pdb
+C:\Users\ADMIN\source\repos\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.genruntimeconfig.cache
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.exe
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.deps.json
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.runtimeconfig.json
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.runtimeconfig.dev.json
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\ref\FleaMarketV2Server.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.pdb
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\CommonLib.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\CommonLib.pdb
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\CommonLib.dll.config
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.csproj.AssemblyReference.cache
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.AssemblyInfoInputs.cache
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.AssemblyInfo.cs
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.csproj.CoreCompileInputs.cache
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.csproj.CopyComplete
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\ref\FleaMarketV2Server.dll
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.pdb
+C:\Users\chan\Downloads\FleaMarketV2\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.genruntimeconfig.cache
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.exe
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.deps.json
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.runtimeconfig.json
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.runtimeconfig.dev.json
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\ref\FleaMarketV2Server.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.pdb
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Text.Json.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\CommonLib.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\CommonLib.pdb
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\CommonLib.dll.config
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.csproj.AssemblyReference.cache
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.AssemblyInfoInputs.cache
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.AssemblyInfo.cs
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.csproj.CoreCompileInputs.cache
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.csproj.CopyComplete
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\ref\FleaMarketV2Server.dll
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.pdb
+D:\진행프로젝트\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.genruntimeconfig.cache
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.exe
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.deps.json
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.runtimeconfig.json
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.runtimeconfig.dev.json
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\ref\FleaMarketV2Server.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\FleaMarketV2Server.pdb
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\CommonLib.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\CommonLib.pdb
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\bin\Debug\net5.0\CommonLib.dll.config
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.csproj.AssemblyReference.cache
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.AssemblyInfoInputs.cache
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.AssemblyInfo.cs
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.csproj.CoreCompileInputs.cache
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.csproj.CopyComplete
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\ref\FleaMarketV2Server.dll
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.pdb
+C:\Users\chan\Downloads\FleaMarketV2 (2)\FleaMarketV2\FleaMarketV2Server\obj\Debug\net5.0\FleaMarketV2Server.genruntimeconfig.cache

@@ -1,0 +1,51 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <Style TargetType="DataGrid" x:Key="ItemListDataGridStyle">
+        <Setter Property="BorderBrush" Value="{StaticResource BackGroundBrush1}"/>
+        <Setter Property="BorderThickness" Value="2"/>
+        <Setter Property="Padding" Value="1"/>
+        <Setter Property="Background" Value="{StaticResource BackGroundBrush7}"/>
+        <Setter Property="RowHeight" Value="30"/>
+        
+        
+        <Style.Triggers>
+            <Trigger Property="IsSelected" Value="True">
+                <Setter Property="Background" Value="LightBlue"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+
+    <!-- DataGridColumnHeader 스타일 -->
+    <Style TargetType="DataGridColumnHeader" x:Key="ItemListDataGridColumnHeaderStyle">
+        <Setter Property="Background" Value="{StaticResource BackGroundBrush1}"/>
+        <Setter Property="Foreground" Value="{StaticResource ForeBrush4}"/>
+        <Setter Property="FontWeight" Value="Bold"/>
+        <Setter Property="Height" Value="35"/>
+        <Setter Property="BorderBrush" Value="Black"/>
+        <Setter Property="BorderThickness" Value="1"/>
+        <Setter Property="VerticalAlignment" Value="Center"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        
+    </Style>
+
+    <!-- DataGridCell 스타일 -->
+    <Style TargetType="DataGridCell" x:Key="ItemListDataGridCellStyle">
+        <Setter Property="Padding" Value="5"/>
+        <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        <Setter Property="VerticalContentAlignment" Value="Center"/>
+        <Setter Property="BorderBrush" Value="{StaticResource BackGroundBrush2}"/>
+        <Setter Property="BorderThickness" Value="1"/>
+        <Setter Property="Background" Value="{StaticResource BackGroundBrush2}"/>
+        <Setter Property="Foreground" Value="{StaticResource ForeBrush2}"/>
+        <Style.Triggers>
+            <Trigger Property="IsSelected" Value="True">
+                <Setter Property="Background" Value="LightBlue"/>
+                <Setter Property="Foreground" Value="White"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    
+
+</ResourceDictionary>
