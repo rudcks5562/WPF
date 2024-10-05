@@ -1,0 +1,21 @@
+USE [???.SYSTEMDB.GK3]
+GO
+drop user [???]
+go
+IF NOT EXISTS (SELECT * FROM SYS.SYSLOGINS WHERE NAME = '  ')
+	BEGIN
+		CREATE LOGIN [DBNAME~~] WITH PASSWORD=N'xhddlf12#$', DEFAULT_DATABASE=[~~DBNAME.SYSTEMDB.GK3], DEFAULT_LANGUAGE=[ÇÑ±¹¾î],
+		CHECK_EXPIRATION=OFF, CHECK_POLICY=OFF
+	END
+GO
+EXEC sys.sp_addsrvrolemember @loginame = N'DBNAME~~', @rolename = N'processadmin'
+GO
+IF NOT EXISTS (SELECT * FROM SYS.SYSUSERS WHERE NAME = '???')
+	BEGIN
+		CREATE USER [???] FOR LOGIN [???]
+	END
+GO
+ALTER USER [???] WITH DEFAULT_SCHEMA = ???
+GO
+EXEC sp_addrolemember N'db_owner', N'????'
+GO
